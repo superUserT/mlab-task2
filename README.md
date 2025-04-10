@@ -76,7 +76,8 @@ the largest number.
 2.  Print all even numbers between 1 and 20.  
 3.  Calculate the sum of all numbers from 1 to 100 and print the result.  
 4.  Print all multiples of 5 less than 50.  
-# Hint: ‘%’  
+
+Hint: ‘%’  
  
 ### Exercise 5: Do While loops  
 
